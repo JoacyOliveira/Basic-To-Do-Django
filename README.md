@@ -1,9 +1,9 @@
 # Basic To-Do Django
 To-Do - Projeto utilizado para aprendizado
 
-![Todo](uploads/6e70a6d10287234bfa8f03af7fa0b915/Todo.png)
-![Todo2](uploads/1303aa9519da6cca3fba29ecbd5238e9/Todo2.png)
-![Todo3](uploads/4aba82d1840ce57123699bd01881cbc9/Todo3.png)
+![Todo](/uploads/85ad8bef269e069deae4710351bf6f88/Todo.png)
+![Todo2](/uploads/81b8d68e850de8f7cc5c83c9bbf7389c/Todo2.png)
+![Todo3](/uploads/c6bf1b5f01c64dc586cec8a03f0af1f1/Todo3.png)
 
 ## Instalação
 
