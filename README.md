@@ -1,2 +1,0 @@
-# Basic To-Do Django
-
