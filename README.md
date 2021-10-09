@@ -9,7 +9,7 @@ To-Do - Projeto utilizado para aprendizado
 
 ### Clone o projeto
 ```
-git clone https://gitlab.com/AiZnn/basic-to-do-django.git
+git clone https://github.com/JoacyOliveira/Basic-To-Do-Django.git
 cd basic-to-do-django
 ```
 
